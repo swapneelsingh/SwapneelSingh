@@ -13,7 +13,6 @@
 ## 🚀 About Me
 
 - 🔭 Currently intern at **HeyInterns As Full Stack Developer**
-- 🌱 Learning **Docker & Kubernetes**
 - 💬 Ask me about **React, Node.js, MongoDB**
 - ⚡ Fun fact: **I debug with console.log() and I'm proud of it!**
 
