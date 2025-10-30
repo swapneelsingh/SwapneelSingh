@@ -15,6 +15,7 @@
 - 🔭 Currently intern at **HeyInterns As Full Stack Developer**
 - 💬 Ask me about **React, Node.js, MongoDB**
 - ⚡ Fun fact: **I debug with console.log() and I'm proud of it!**
+-  [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/swapneelsingh14/code)
 
 ## 🛠️ Tech Stack
 
